@@ -8,10 +8,10 @@ OnlyPans is a React-based project that adds a dash of humour to the world of fin
 
 
 ## Tech Stack 🤖
-- **React**
-- **HTML**
-- **CSS**
-- **JavaScript**
+- React
+- HTML
+- CSS
+- JavaScript
 
 <!-- 
 ## Installation 🔢
