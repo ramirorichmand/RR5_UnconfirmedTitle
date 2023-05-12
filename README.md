@@ -1,10 +1,10 @@
 # 25/04/2023 RR6_OnlyPans 👨🏽‍🍳🥘
 
-<img width="903" alt="Screenshot 2023-05-12 at 09 20 13" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/5cb92a84-05e3-49b4-b51d-9d0123966226">
-
 ![brown cuisine](https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/109e0c94-0d23-46de-be77-2ee46ae977e4)
 
-<img width="1079" alt="Screenshot 2023-05-12 at 09 17 59" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/24068423-bb1d-458b-a047-070e66f489a6">
+<img width="1440" alt="Screenshot 2023-05-12 at 09 28 19" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/3e979a9e-f4ef-4b69-917e-316fe185142d">
+
+<img width="1440" alt="Screenshot 2023-05-12 at 09 28 33" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/e913d141-dfee-4c4b-9690-a8e9e2d6e2f3">
 
 
 ## Description 💬
