@@ -1,7 +1,7 @@
 # 25/04/2023 RR6_OnlyPans 👨🏽‍🍳🥘
 
 ## Description 💬
-Only Pans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
+OnlyPans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
 ## Installation 🔢
 1. Clone the repository: git clone `git@github.com:ramirorichmand/RR6_OnlyPans.git`
 2. Navigate to the project directory: cd `only-pans`
@@ -12,11 +12,11 @@ Only Pans is a React-based project that adds a dash of humour to the world of fi
 ## Disclaimer ⚠️
 Only Pans is not responsible for any uncontrollable cravings, sudden outbursts of laughter, or an insatiable desire to wear a chef's hat. Proceed with caution!
 
-So, if you're up for a delightful blend of laughter and gourmet cuisine, join us at Only Pans. We guarantee that your taste buds and funny bone will be thoroughly satisfied! 😄🍽️
+So, if you're up for a delightful blend of laughter and gourmet cuisine, join us at OnlyPans. We guarantee that your taste buds and funny bone will be thoroughly satisfied! 😄🍽️
 
 ## Show Your Support 🤝
 
-<b> Thank you </b> for taking the time to drop by and check out this Backend API Project ☺️
+<b> Thank you </b> for taking the time to drop by and check out this React Project ☺️
 
 If you've liked or found this project helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions. Let's create the most flavourful fine dining experience together!
 
