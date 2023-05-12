@@ -17,7 +17,12 @@ import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
-import sign from '../assets/sign.png';
+import rblogo1 from '../assets/rblogo1.png';
+import rblogo2 from '../assets/rblogo2.png';
+import rblogo3 from '../assets/rblogo3.png';
+import rblogo4 from '../assets/rblogo4.png';
+import rblogo5 from '../assets/rblogo5.png';
+import rblogo7 from '../assets/rblogo7.png';
 import quote from '../assets/quote.png';
 import onlypans from '../assets/onlypans.png';
 
@@ -41,7 +46,12 @@ export default {
   award02,
   award03,
   award05,
-  sign,
-  quote,
+  rblogo1,
+  rblogo2,
+  rblogo3,
+  rblogo4,
+  rblogo5,
+  rblogo7,
+    quote,
   onlypans,
 };
