@@ -5,7 +5,11 @@
 ## Description 💬
 OnlyPans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
 
+<img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/f13bee13-5aa1-4dd8-9e3f-8f82e14e04a7">
 
+<!--
+<img width="307" alt="rblogo5" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/a9e0a157-9876-49d2-9059-cbb99734fbdb">
+-->
 
 ## Tech Stack 🤖
 - React
@@ -40,3 +44,9 @@ Thank you again for your support! Bon appétit! 🙏
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
 
+<!--
+
+<img width="840" alt="Screenshot 2023-05-12 at 13 04 34" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/0fb81d67-d288-49db-b518-4c543a8b4a9e">
+
+<b> Ramiro's Bistro - _One Byte At A Time_ </b>
+-->
