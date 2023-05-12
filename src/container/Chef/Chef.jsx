@@ -24,7 +24,7 @@ const Chef = () => (
 
     <div className='app__chef-sign'>
       <p>Gordon Ramasamy</p>
-      <p className='p__opensans'>Chef & Founder</p>
+      <p className='p__opensans'>Head Chef</p>
       <img src={images.rblogo4} alt='sign'/>
     </div>
 
