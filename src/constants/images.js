@@ -1,5 +1,5 @@
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
+import levitatingfood from '../assets/levitatingfood.png';
 import G from '../assets/G.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -23,7 +23,7 @@ import onlypans from '../assets/onlypans.png';
 
 export default {
   bg,
-  chef,
+  levitatingfood,
   G,
   gallery01,
   gallery02,
