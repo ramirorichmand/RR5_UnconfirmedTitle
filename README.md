@@ -2,9 +2,18 @@
 
 <img width="1440" alt="Ramiro's Bistro, " src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/e913d141-dfee-4c4b-9690-a8e9e2d6e2f3">
 
-
 ## Description 💬
 OnlyPans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
+
+
+
+## Tech Stack 🤖
+- **React**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+<!-- 
 ## Installation 🔢
 1. Clone the repository: git clone `git@github.com:ramirorichmand/RR6_OnlyPans.git`
 2. Navigate to the project directory: cd `only-pans`
@@ -12,10 +21,12 @@ OnlyPans is a React-based project that adds a dash of humour to the world of fin
 ## Usage 🧑‍💻
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
-## Disclaimer ⚠️
-Only Pans is not responsible for any uncontrollable cravings, sudden outbursts of laughter, or an insatiable desire to wear a chef's hat. Proceed with caution!
 
-So, if you're up for a delightful blend of laughter and gourmet cuisine, join us at OnlyPans. We guarantee that your taste buds and funny bone will be thoroughly satisfied! 😄🍽️
+-->
+## Disclaimer ⚠️
+Please note that Only Pans cannot be held responsible for any unexpected cravings, sudden bursts of laughter, or the uncontrollable urge to wear a chef's hat. Proceed with caution and indulge at your own risk!
+
+If you're ready for a delightful fusion of gourmet cuisine and entertainment, we invite you to join us at Only Pans. We guarantee a satisfying experience for your taste buds! 😄🍽️
 
 ## Show Your Support 🤝
 
