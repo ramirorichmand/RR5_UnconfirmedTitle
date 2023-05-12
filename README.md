@@ -1,6 +1,6 @@
 # 25/04/2023 RR6_OnlyPans 👨🏽‍🍳🥘
 
-<img width="1440" alt="Screenshot 2023-05-12 at 09 28 33" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/e913d141-dfee-4c4b-9690-a8e9e2d6e2f3">
+<img width="1440" alt="Ramiro's Bistro, " src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/e913d141-dfee-4c4b-9690-a8e9e2d6e2f3">
 
 
 ## Description 💬
