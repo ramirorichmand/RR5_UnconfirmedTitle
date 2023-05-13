@@ -1,11 +1,13 @@
 # 25/04/2023 RR6_OnlyPans 👨🏽‍🍳🥘
 
-<img width="1440" alt="Ramiro's Bistro, " src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/e913d141-dfee-4c4b-9690-a8e9e2d6e2f3">
+
+<img width="1440" alt="Ramiro's Bistro" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/1884fc04-28f4-4574-9217-d58d22107675">
 
 ## Description 💬
 OnlyPans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
 
-<img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/f13bee13-5aa1-4dd8-9e3f-8f82e14e04a7">
+
+<img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/8cf9ee57-58d7-4957-8694-75008408e50e">
 
 <!--
 <img width="307" alt="rblogo5" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/a9e0a157-9876-49d2-9059-cbb99734fbdb">
