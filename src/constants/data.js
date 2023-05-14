@@ -41,7 +41,7 @@ const cocktails = [
   },
   {
     title: 'Daiquiri',
-    price: '$10',
+    price: '£10',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {

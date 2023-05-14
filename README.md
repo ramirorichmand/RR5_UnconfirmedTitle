@@ -4,7 +4,11 @@
 <img width="1440" alt="Ramiro's Bistro" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/1884fc04-28f4-4574-9217-d58d22107675">
 
 ## Description 💬
-Ramiro's Bistro 👨🏽‍🍳🥘 is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
+Ramiro's Bistro 👨🏽‍🍳🥘 is a React-based project that that aims to capture the elegance and artistry of fine dining experiences. 
+
+This project incorporates visually appealing elements and user-friendly interactions to create an immersive dining journey. Users can explore exquisite menus and make reservations through a simple and intuitive interface. 
+
+Ramiro's Bistro is here to spice up your culinary journey and provide a delightful experience that brings the world of fine dining to life.
 
 <!--
 <img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/8cf9ee57-58d7-4957-8694-75008408e50e">
@@ -27,7 +31,7 @@ Ramiro's Bistro 👨🏽‍🍳🥘 is a React-based project that adds a dash of
 5. Open your browser and visit: `http://localhost:3000`
 
 ## Disclaimer ⚠️
-Please note that Ramiro's Bistro cannot be held responsible for any unexpected cravings, sudden bursts of laughter, or the uncontrollable urge to wear a chef's hat. Proceed with caution and indulge at your own risk!
+Please note that Ramiro's Bistro cannot be held responsible for any unexpected cravings or the uncontrollable urge to wear a chef's hat. Proceed with caution and indulge at your own risk!
 
 If you're ready for a delightful fusion of gourmet cuisine and entertainment, we invite you to join us at Ramiro's Bistro. We guarantee a satisfying experience for your taste buds! 😄🍽️
 
