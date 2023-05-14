@@ -1,4 +1,4 @@
-# 25/04/2023 RR6_OnlyPans 👨🏽‍🍳🥘
+# 25/04/2023 RR6 Ramiro's Bistro: _One Byte At a Time_ 👨🏽‍🍳🥘
 
 
 <img width="1440" alt="Ramiro's Bistro" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/1884fc04-28f4-4574-9217-d58d22107675">
@@ -6,12 +6,11 @@
 ## Description 💬
 OnlyPans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
 
-
-<img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/8cf9ee57-58d7-4957-8694-75008408e50e">
-
 <!--
-<img width="307" alt="rblogo5" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/a9e0a157-9876-49d2-9059-cbb99734fbdb">
+<img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/8cf9ee57-58d7-4957-8694-75008408e50e">
 -->
+
+<img width="407" alt="Ramiro's Bistro Logo" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/6071ed21-2910-4aee-9d12-d80d75cbe31b">
 
 ## Tech Stack 🤖
 - React
@@ -19,7 +18,6 @@ OnlyPans is a React-based project that adds a dash of humour to the world of fin
 - CSS
 - JavaScript
 
-<!-- 
 ## Installation 🔢
 1. Clone the repository: git clone `git@github.com:ramirorichmand/RR6_OnlyPans.git`
 2. Navigate to the project directory: cd `only-pans`
@@ -28,11 +26,10 @@ OnlyPans is a React-based project that adds a dash of humour to the world of fin
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
 
--->
 ## Disclaimer ⚠️
-Please note that Only Pans cannot be held responsible for any unexpected cravings, sudden bursts of laughter, or the uncontrollable urge to wear a chef's hat. Proceed with caution and indulge at your own risk!
+Please note that Ramiro's Bistro cannot be held responsible for any unexpected cravings, sudden bursts of laughter, or the uncontrollable urge to wear a chef's hat. Proceed with caution and indulge at your own risk!
 
-If you're ready for a delightful fusion of gourmet cuisine and entertainment, we invite you to join us at Only Pans. We guarantee a satisfying experience for your taste buds! 😄🍽️
+If you're ready for a delightful fusion of gourmet cuisine and entertainment, we invite you to join us at Ramiro's Bistro. We guarantee a satisfying experience for your taste buds! 😄🍽️
 
 ## Show Your Support 🤝
 
@@ -45,10 +42,3 @@ Every contribution counts and is deeply appreciated as I pursue a path of lifelo
 Thank you again for your support! Bon appétit! 🙏
 
 <a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
-
-<!--
-
-<img width="840" alt="Screenshot 2023-05-12 at 13 04 34" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/0fb81d67-d288-49db-b518-4c543a8b4a9e">
-
-<b> Ramiro's Bistro - _One Byte At A Time_ </b>
--->
