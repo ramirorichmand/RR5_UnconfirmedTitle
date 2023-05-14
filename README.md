@@ -4,7 +4,7 @@
 <img width="1440" alt="Ramiro's Bistro" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/1884fc04-28f4-4574-9217-d58d22107675">
 
 ## Description 💬
-OnlyPans is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
+Ramiro's Bistro 👨🏽‍🍳🥘 is a React-based project that adds a dash of humour to the world of fine dining. Maybe it's not the page you were originally looking for, but we're here to spice up your culinary journey with a pinch of wit and a sprinkle of playfulness.
 
 <!--
 <img width="600" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/8cf9ee57-58d7-4957-8694-75008408e50e">
