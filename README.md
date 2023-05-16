@@ -1,10 +1,10 @@
-# 25/04/2023 RR6 Ramiro's Bistro: _One Byte At a Time_ 👨🏽‍🍳🥘
+# 25/04/2023 RR6 Ramiro's Bistro: _One Byte At a Time_ 👨‍🍳🥘
 
 
 <img width="1440" alt="Ramiro's Bistro" src="https://github.com/ramirorichmand/RR6_OnlyPans/assets/122550071/1884fc04-28f4-4574-9217-d58d22107675">
 
 ## Description 💬
-Ramiro's Bistro 👨🏽‍🍳🥘 is a React-based project that that aims to capture the elegance and artistry of fine dining experiences. 
+Ramiro's Bistro 👨‍🍳🥘 is a React-based project that that aims to capture the elegance and artistry of fine dining experiences. 
 
 This project incorporates visually appealing elements and user-friendly interactions to create an immersive dining journey. Users can explore exquisite menus and make reservations through a simple and intuitive interface. 
 
