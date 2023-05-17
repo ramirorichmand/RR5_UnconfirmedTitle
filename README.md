@@ -41,7 +41,7 @@ If you're ready for a delightful fusion of gourmet cuisine and entertainment, we
 
 If you've liked or found this project helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions.
 
-Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to create meaningful content for food afficionados and aspiring master chefs alike.
+Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content for food afficionados and aspiring master chefs alike.
 
 Thank you again for your support! Bon appétit! 🙏
 
